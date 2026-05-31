@@ -1,0 +1,6 @@
+{
+  "name": "WordPress Portfolio",
+  "description": "An ultra-premium, interactive single-page portfolio for an elite WordPress developer featuring dynamic slider, typing effect, project gallery, and integrated contact form.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
